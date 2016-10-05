@@ -11,5 +11,5 @@ notifications:
   email: true
   recipients:
   - carlos.gonzales@jalasoft.com
-  - juana.rodriguez@fundacion-jala.org
+  - AT01@fundacion-jala.org
 
